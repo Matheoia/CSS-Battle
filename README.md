@@ -11,3 +11,6 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 <h5>#3 Push Button</h5>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226134197-fe0d9d9f-99b4-42ae-9195-a3c10bb7f04a.png">
+
+<h5>#4 Ups n Downs</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226135202-735e54cd-f2ed-4ffa-838d-4f6678458cdb.png">
