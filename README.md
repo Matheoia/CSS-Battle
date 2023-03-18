@@ -17,3 +17,6 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 <h5>#5 Acid Rain</h5>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226136264-1deb9303-7891-422a-8baf-319ba7c7413a.png">
+
+<h5>#6 Missing Slide</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226137468-cf7b7d0b-1080-47c8-b4c9-d9fb0bbe35ca.png">
