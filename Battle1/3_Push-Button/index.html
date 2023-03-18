@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#3 Push Button</title>
+</head>
+<!-- à retenir : le div::after et box-shadow auraient pu être utilisés -->
+<style>
+    body {
+      background: #6592cf;
+    }
+    #r, #c1, #c2, #c3 {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+    }
+    #r {
+      width: 300px;
+      height: 150px;
+      background: #243d83;
+    }
+    #c1 {
+      width: 250px;
+      height: 250px;
+      background: #6592CF;
+      border-radius: 50%
+    }
+    #c2 {
+      width: 150px;
+      height: 150px;
+      background: #243D83;
+      border-radius: 50%
+    }
+    #c3 {
+      width: 50px;
+      height: 50px;
+      background: #EEB850;
+      border-radius: 50%
+    }
+    </style>
+<body>
+    <div id='r'>
+      <div id='c1'>
+        <div id='c2'>
+          <div id='c3'></div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
