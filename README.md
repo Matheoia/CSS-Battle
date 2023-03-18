@@ -29,4 +29,7 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 
 <h5>#9 Tesseract</h5>
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/121936719/226143596-a37cf43a-8cd3-4979-80b5-7f5fe47023af.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226143596-a37cf43a-8cd3-4979-80b5-7f5fe47023af.png">
+
+<h5>#10 Cloaked Spirits</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226144089-a89a05f8-53b1-4f16-ae92-40be1373af14.png">
