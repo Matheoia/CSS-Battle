@@ -23,3 +23,6 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 <h5>#7 Leafy Trail</h5>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226138627-4af5de9f-a0d0-40de-8c9e-e7e6be09ddf8.png">
+
+<h5>#8 Forking Crazy</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226142290-1c69c879-77f1-434a-a534-f1b74979a509.png">
