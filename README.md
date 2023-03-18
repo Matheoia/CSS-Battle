@@ -1,6 +1,6 @@
 # CSS-Battle
 
-Mon but avec CSS Battle est simplement d'apprendre quelques astuces CSS.
+Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 <strong><h3>Battle #1</h3></strong>
 <h5>#1 Simply Square</h5>
@@ -8,3 +8,6 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces CSS.
 
 <h5>#2 Corrom</h5>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226128998-628d5d43-3073-47a0-8373-3a7f0464f7e5.png">
+
+<h5>#3 Push Button</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226134197-fe0d9d9f-99b4-42ae-9195-a3c10bb7f04a.png">
