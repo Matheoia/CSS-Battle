@@ -20,3 +20,6 @@ Mon but avec CSS Battle est simplement d'apprendre quelques astuces.
 
 <h5>#6 Missing Slide</h5>
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226137468-cf7b7d0b-1080-47c8-b4c9-d9fb0bbe35ca.png">
+
+<h5>#7 Leafy Trail</h5>
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/121936719/226138627-4af5de9f-a0d0-40de-8c9e-e7e6be09ddf8.png">
